@@ -1,0 +1,9 @@
+Building SleepCoin
+
+See doc/readme-qt.rst for instructions on building SleepCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of SleepCoin.
+
+See doc/build-*.txt for instructions on building sleepcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of SleepCoin.
